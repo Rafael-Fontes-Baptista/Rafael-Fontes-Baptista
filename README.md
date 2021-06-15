@@ -9,10 +9,13 @@
 💬  Be welcome to my github, and please, why not talking more?
 
 📫  You can always reach me through my linkedIn, 
-    **LinkedIn**: https://www.linkedin.com/in/rafael-fontes-baptista/
 
-📞  ...or you can give me a call :)
-    **Phone**: +31 0684802500
+📞  ...or if you prefer you can give me a call :)
+
+**LinkedIn**: https://www.linkedin.com/in/rafael-fontes-baptista/
+
+**Phone**: +31 0684802500
+    
 
 
 #### Languages and Tools
