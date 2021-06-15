@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rafael
 
-👨🏻‍💻 I am a JavaScript student at **Codasseiur** in Amsterdam,
+👨🏻‍💻 I am a fullstack JavaScript student at **Codasseiur** in Amsterdam,
 
 🔄  I am currently pursuing a switch career from digital marketing to **web development**. 
     
