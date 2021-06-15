@@ -4,7 +4,7 @@
 
 🔄  I am currently pursuing a switch career from digital marketing to **web development**. 
     
-😍  From programimng, **frontend development** is what I most like, I love it!
+😍  From web development, **frontend** is what I most like, I love it!
     
 💬  Be welcome to my github, and please, why not talking more?
 
