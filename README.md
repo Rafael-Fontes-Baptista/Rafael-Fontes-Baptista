@@ -14,7 +14,15 @@
 
 
 #### Progamming Languages and Tools
-css3 html5 javascript git heroku jest postgresql react typescript
+css3 https://www.w3schools.com/css/
+html5 
+javascript 
+git 
+heroku 
+jest 
+postgresql 
+react 
+typescript
 
 <!--
 **Rafael-Fontes-Baptista/Rafael-Fontes-Baptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
