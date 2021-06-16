@@ -2,15 +2,15 @@
 
 👨🏻‍💻 I am a fullstack JavaScript student at **Codasseiur** in Amsterdam,
 
-🔄  I am currently pursuing a switch career from digital marketing to **web development**. 
+🔄  I am currently pursuing a switch career from digital marketing to **Web Development**. 
     
-😍  From web development, **frontend** is what I most like, I love it!
+😍  From web development, **Frontend** is what I most like, I love it!
     
-💬  Be welcome to my github, and please, why not talking more?
+💬  Be welcome to my **Github**, and please, why not talking more?
 
-📫  You can always reach me through my linkedIn, 
+📫  You can always reach me through my **LinkedIn**, 
 
-📞  ...or if you prefer you can give me a call :)
+📞  ...or if you prefer just give me a call :)
 
 **LinkedIn**: https://www.linkedin.com/in/rafael-fontes-baptista/
 
