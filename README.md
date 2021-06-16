@@ -14,7 +14,7 @@
 
 **LinkedIn**: https://www.linkedin.com/in/rafael-fontes-baptista/
 
-**Phone**: +31 0684802500
+**Phone**: 🇱🇺+31 0684802500
     
 
 
