@@ -10,7 +10,9 @@
 
 📫  You can always reach me through my **LinkedIn**, 
 
-📞  ...or if you prefer, call me :)
+📞  ...or if you prefer, you can call me :)
+
+My bests,
 
 **LinkedIn**: https://www.linkedin.com/in/rafael-fontes-baptista/
 
