@@ -1,10 +1,8 @@
 ### Hi there 👋, I am Rafael
 
-👨🏻‍💻 I am a fullstack JavaScript student at **Codasseiur** in Amsterdam,
+👨🏻‍💻 I am a Frontend developer at **ADYEN** in Amsterdam,
 
-🔄  I am currently looking for a career change from digital marketing to **Web Development**. 
-    
-😍  From web development, **Frontend** is what I like the most, I love it!
+🔄  I have background in **business** and **marketing**, expecialize in digital businesses. 
     
 💬  Be welcome to my **Github**, and why not talk more?
 
