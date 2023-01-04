@@ -2,7 +2,7 @@
 
 👨🏻‍💻 I am a Frontend developer at **ADYEN** in Amsterdam,
 
-🔄  I have background in **business** and **marketing**, expecialize in digital businesses. 
+🔄  I have background in **business** and **marketing**, expecialized in digital businesses. 
     
 💬  Be welcome to my **Github**, and why not talk more?
 
